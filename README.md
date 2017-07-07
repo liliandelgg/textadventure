@@ -1,5 +1,7 @@
 # textadventure
 
+#Click on the textadventure.py file for the full code. 
+
 start = '''
 Welcome to Bikini Bottom. You want to meet Patrick at the new Glove World,
 but many characters conspire to get in your way. Follow your heart and make
